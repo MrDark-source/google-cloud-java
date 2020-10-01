@@ -390,10 +390,8 @@ runtime. However, Datastore, Storage, and Bigquery should work.
 ## Contributing
 
 Contributions to this library are always welcome and highly encouraged.
-
-See `google-cloud`'s [CONTRIBUTING] documentation and the [shared documentation](https://github.com/googleapis/google-cloud-common/blob/master/contributing/readme.md#how-to-contribute-to-gcloud) for more information on how to get started.
-
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms. See [Code of Conduct][code-of-conduct] for more information.
+See google cloud's CONTRIBUTING documentation and the shared documentation for more information on how to get started.
+Please note that the project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms. See the Code of Conduct for more information.
 
 ## License
 
